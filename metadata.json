@@ -1,0 +1,6 @@
+{
+  "name": "Airblue PCAA Correspondence Management System",
+  "description": "Secure, AI-powered regulatory correspondence management system for Airblue to register, digitize, verify, track, and retrieve communications exchanged with the Pakistan Civil Aviation Authority (PCAA).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
